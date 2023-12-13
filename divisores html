@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="img/exerc.jpg" alt="Exercicios" class="normal">
+    <h1>divisores</h1>
+    <form>
+        <p>numero:
+            <input type="number" id="inNumero"required>
+        </p>
+
+        <input type="submit" valur="verificar os divisores">
+    </form>
+    </h3></h3>
+    <script src="divisores.js"><</script>
+</body>
+</html>
